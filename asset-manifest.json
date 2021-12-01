@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/static/js/main.687f10f5.chunk.js",
+    "main.js.map": "/static/js/main.687f10f5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.36b62ebd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.36b62ebd.js.map",
+    "static/js/2.f6100234.chunk.js": "/static/js/2.f6100234.chunk.js",
+    "static/js/2.f6100234.chunk.js.map": "/static/js/2.f6100234.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.f6100234.chunk.js.LICENSE.txt": "/static/js/2.f6100234.chunk.js.LICENSE.txt",
+    "static/media/Alero.24593b21.svg": "/static/media/Alero.24593b21.svg",
+    "static/media/AleroERP.d346dd22.png": "/static/media/AleroERP.d346dd22.png",
+    "static/media/BankWebsite.29f748f1.png": "/static/media/BankWebsite.29f748f1.png",
+    "static/media/BrowserWindow.cff3805a.svg": "/static/media/BrowserWindow.cff3805a.svg",
+    "static/media/CovidTracker.db53c782.png": "/static/media/CovidTracker.db53c782.png",
+    "static/media/EcommerceDash.b3ccd436.png": "/static/media/EcommerceDash.b3ccd436.png",
+    "static/media/Frame8.3d7bac83.svg": "/static/media/Frame8.3d7bac83.svg",
+    "static/media/Health App.714d8fba.png": "/static/media/Health App.714d8fba.png",
+    "static/media/JK.32952c2a.svg": "/static/media/JK.32952c2a.svg",
+    "static/media/MacBookPro1.6b68d34f.svg": "/static/media/MacBookPro1.6b68d34f.svg",
+    "static/media/MeltingPot.1e12b21e.png": "/static/media/MeltingPot.1e12b21e.png",
+    "static/media/Mindfuliving.d19a0a2b.png": "/static/media/Mindfuliving.d19a0a2b.png",
+    "static/media/Muhara.4ab15c5d.png": "/static/media/Muhara.4ab15c5d.png",
+    "static/media/Paint Depo Limited.c1035a97.png": "/static/media/Paint Depo Limited.c1035a97.png",
+    "static/media/Rectangle81.a80689ea.svg": "/static/media/Rectangle81.a80689ea.svg",
+    "static/media/arrow.0c848cc9.svg": "/static/media/arrow.0c848cc9.svg",
+    "static/media/classandsass.c74ede83.png": "/static/media/classandsass.c74ede83.png",
+    "static/media/front.2f5b46eb.svg": "/static/media/front.2f5b46eb.svg",
+    "static/media/profile.2c96964d.png": "/static/media/profile.2c96964d.png",
+    "static/media/videoLoad.21657115.gif": "/static/media/videoLoad.21657115.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36b62ebd.js",
+    "static/js/2.f6100234.chunk.js",
+    "static/js/main.687f10f5.chunk.js"
+  ]
+}
